@@ -4,7 +4,7 @@ Overview about Scratch coding for Kids.
 
 ## About
 
-This is some examples about Scratch - Drag and Drop Coding. It helps children easily access and stimulate their thinking.
+This is some examples about Scratch - Drag and Drop Coding. It helps kids easily access and stimulate their thinking.
 
 Resources:
 
